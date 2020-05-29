@@ -1,5 +1,15 @@
 # play-audio
 
+### HTML
+
+```html
+<audio id="audio">
+    <source src="./assets/mp3/mp3.mp3" type="audio/mpeg">
+</audio>
+```
+
+### JavaScript
+
 ```js
 document.addEventListener('DOMContentLoaded', () => {
 
